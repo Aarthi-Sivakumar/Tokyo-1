@@ -5,3 +5,4 @@ Commit done under the newly created branch
 Pushing has to be done
 The branch has to be deleted from the origin
 The new branch is deleted
+Pushing has to be done to make changes in remote repo
