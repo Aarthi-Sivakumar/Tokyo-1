@@ -1,2 +1,1 @@
-First commit made in amy's folder under the branch feature/login
-Another commit made in amy's folder on the branch
+Branch is deleted in amy's folder
