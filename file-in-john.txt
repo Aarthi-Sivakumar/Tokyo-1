@@ -1,1 +1,1 @@
-A new branch is created under john's folder
+Commit done under the branch in john's folder
