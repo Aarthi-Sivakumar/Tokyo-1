@@ -4,3 +4,4 @@ Creating a new branch
 Commit done under the newly created branch
 Pushing has to be done
 The branch has to be deleted from the origin
+The new branch is deleted
