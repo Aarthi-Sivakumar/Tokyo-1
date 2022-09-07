@@ -1,1 +1,1 @@
-First commit made in the john's folder by creating a file
+A new branch is created under john's folder
