@@ -6,3 +6,4 @@ Commit done before switching to john's folder
 Switched to amy's folder
 A new branch has to be created
 Committed under the branch that is newly created
+New branch is deleted and pushing has to be done
