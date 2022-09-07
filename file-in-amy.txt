@@ -1,2 +1,3 @@
 Branch is deleted in amy's folder
 Commit done before creating a new branch in amy's folder
+Commit done under the newly created branch
