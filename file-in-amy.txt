@@ -3,3 +3,4 @@ Commit done before creating a new branch in amy's folder
 Commit done under the newly created branch
 Commit done after deleting the newly created branch
 Commit done before switching to john's folder
+Switched to amy's folder
