@@ -1,2 +1,3 @@
 Commit done under the branch in john's folder
 Commit done after fetching all the commits done in amy's folder
+Creating a new branch
